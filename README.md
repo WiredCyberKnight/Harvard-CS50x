@@ -1,1 +1,1 @@
-# Harvard CS50's Introduction to Computer Science
+# Harvards CS50x Introduction to Computer Science
