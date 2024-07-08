@@ -21,3 +21,11 @@ Week 0 was pretty fun because we had to create a game on the scratch.mit.edu web
 - Cash or Credit
 
   For the third coding homework, we had to implement a program that prints the minimum coins needed to make the given amount of change, in cents. This project didn’t have a walkthrough video, but it did have some advice and pseudocode as comments, along with some pictures to give us a foundation on what it should look like. I used the help of Google and the DuckAI that Harvard provides to help us on the project. I found out that a lot of it was just repetitive functions with different variables for the different coins while implementing a while loop. This project was pretty cool, but I just didn’t like how, for instance, if I put in "Change owed: 70," it would output 4… 4 of what coins though? I couldn’t implement that feature into the homework, because that’s where our assignment ended. I understand that this is still the beginning of the course, but most importantly, I learned a lot.
+
+## Week 2 - C Programming Language - Arrays
+
+- Cash or Credit
+
+    For the first homework of Week 2, we had to implement a program in C that determines the winner of a short Scrabble-like game. The program takes two inputs, one for Player 1 and one for Player 2. Depending on which player scores the most points, it prints either “Player 1 wins!”, “Player 2 wins!”, or “Tie!”.
+
+    To achieve this, I set up an integer array 'points' where each element corresponds to the score aligned with a letter in the alphabet. I also implemented a function that checks if a character is alphabetic (ignoring non-alphabetic characters), handles uppercase and lowercase letters correctly, and computes the appropriate score based on the ASCII standard. This is crucial because comparing 'a' and 'A' directly can cause issues due to their different ASCII values.
