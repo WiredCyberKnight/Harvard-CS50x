@@ -1,7 +1,7 @@
 <h1 align="center">Harvard's CS50x Introduction to Computer Science</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WiredCyberKnight/Harvard-CS50x/main/55d26d038ead7aed1d238175d444ce8d.png" alt="Harvard University Logo">
+  <img src="https://raw.githubusercontent.com/WiredCyberKnight/Harvard-CS50x/main/55d26d038ead7aed1d238175d444ce8d.png" alt="Harvard University Logo" width="20%">
 </p>
 
 ## Week 0 - Scratch - [Let's Play OSRS](https://scratch.mit.edu/projects/1043180671/)
